@@ -1,4 +1,4 @@
-# IDX Keterbukaan Informasi — PDF ke JSON
+# IDX Keterbukaan Informasi
 
 Konversi data **keterbukaan informasi kepemilikan saham** dari [idx.co.id](https://www.idx.co.id) (format PDF) menjadi format JSON yang terstruktur dan mudah digunakan.
 
